@@ -52,10 +52,11 @@ border-radius: 1.4px;
 }
 .review {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     gap:10px;
 }
 .price {
+    color: red;
 }
 .quanlity {
 }
